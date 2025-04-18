@@ -1,5 +1,5 @@
 # ⚖️ TradeLawNotes  
-**A law student’s dissection of *International Commercial Law* (John Mo).**  
+**A law student’s dissection of *International Commercial Law*.**  
 
 📌 **Latest Posts**:  
 - [CISG Basics](/posts/cisg.md) *(Coming soon!)*  
